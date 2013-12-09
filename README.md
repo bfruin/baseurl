@@ -1,7 +1,7 @@
 baseurl
 =======
 
-Simple Perl script to get the base URL of a (tiny) URL.
+Simple Perl script to get the base URL of a URL (i.e., a redirect or tiny).
 
 To get the base URL simply execute:
 
