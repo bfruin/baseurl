@@ -17,7 +17,7 @@ Which will give you a prompt beginning with HTTP protocol:
 Enter the desired URL and the script will return the base URL:
 
 ```    
-    Base URL: {stdin base URL}
+    Base URL: {output}
 ```
 For example:
 
