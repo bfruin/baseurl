@@ -9,12 +9,12 @@ To get the base url simple execute:
    ./baseurl.pl
 ```
 
-Which will give you a prompt with beginning with http protocol:
+Which will give you a prompt beginning with http protocol:
 
 ```    
-    Enter URL: http://{stdin}
+    Enter URL: http://
 ```
-After entering your URL, you will get given the Base URL
+Enter the desired URL and the script will return the Base URL
 
 ```    
     Base URL: {stdin base URL}
