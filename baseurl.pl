@@ -6,9 +6,8 @@ use strict;
 print "Enter URL: http://";
 my $url = <>;
 
-# Remove single and double quotes
+# Remove quotes
 $url =~ s/'//g;
-$url =~ s/"//g;
 
 # Ensure protocol is entered (assumes HTTP)
 if (index(lc($url), "http://", 0) != 0) {
